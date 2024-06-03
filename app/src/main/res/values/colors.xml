@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="disabled_text">#ACACAC</color>
+    <color name="yellow">#F3CA52</color>
+    <color name="yellow_disable">#FFF9D0</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="pink">#FF6868</color>
+    <color name="pink_merah">#FC2947</color>
+    <color name="pink_merah_iskal">#FE6244</color>
+    <color name="light_yellow_50">#FFE1F5FE</color>
+    <color name="light_yellow_200">#FFEC9E</color>
+    <color name="light_yellow_600">#FFEC9E</color>
+    <color name="light_yellow_900">#6B240C</color>
+</resources>
